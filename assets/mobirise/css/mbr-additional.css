@@ -1085,6 +1085,33 @@ a {
 .cid-tgG9AOcAXZ .mbr-section-title {
   color: #ffffff;
 }
+.cid-thvRtT6MVi {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #000000;
+}
+.cid-thvRtT6MVi .video-wrapper iframe {
+  width: 100%;
+}
+.cid-thvRtT6MVi .mbr-section-title,
+.cid-thvRtT6MVi .mbr-description {
+  text-align: center;
+}
+.cid-thvRtT6MVi .text-wrapper {
+  padding: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-thvRtT6MVi .text-wrapper {
+    padding: 2rem;
+    padding-right: 4rem;
+  }
+}
+.cid-thvRtT6MVi .mbr-section-title {
+  color: #ffffff;
+}
+.cid-thvRtT6MVi .mbr-section-subtitle {
+  color: #ffffff;
+}
 .cid-tgG9r5Azzq {
   padding-top: 1rem;
   padding-bottom: 0rem;
@@ -1700,33 +1727,6 @@ a {
 .cid-tgLGDrxw0F .mbr-section-subtitle {
   color: #ffffff;
 }
-.cid-tgLGAzi62F {
-  padding-top: 1rem;
-  padding-bottom: 0rem;
-  background-color: #000000;
-}
-.cid-tgLGAzi62F .video-wrapper iframe {
-  width: 100%;
-}
-.cid-tgLGAzi62F .mbr-section-title,
-.cid-tgLGAzi62F .mbr-description {
-  text-align: center;
-}
-.cid-tgLGAzi62F .text-wrapper {
-  padding: 1rem;
-}
-@media (min-width: 992px) {
-  .cid-tgLGAzi62F .text-wrapper {
-    padding: 2rem;
-    padding-right: 4rem;
-  }
-}
-.cid-tgLGAzi62F .mbr-section-title {
-  color: #ffffff;
-}
-.cid-tgLGAzi62F .mbr-section-subtitle {
-  color: #ffffff;
-}
 .cid-tgLGLeV4Jm {
   padding-top: 1rem;
   padding-bottom: 0rem;
@@ -1752,6 +1752,33 @@ a {
   color: #ffffff;
 }
 .cid-tgLGLeV4Jm .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-tgLGAzi62F {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #000000;
+}
+.cid-tgLGAzi62F .video-wrapper iframe {
+  width: 100%;
+}
+.cid-tgLGAzi62F .mbr-section-title,
+.cid-tgLGAzi62F .mbr-description {
+  text-align: center;
+}
+.cid-tgLGAzi62F .text-wrapper {
+  padding: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-tgLGAzi62F .text-wrapper {
+    padding: 2rem;
+    padding-right: 4rem;
+  }
+}
+.cid-tgLGAzi62F .mbr-section-title {
+  color: #ffffff;
+}
+.cid-tgLGAzi62F .mbr-section-subtitle {
   color: #ffffff;
 }
 .cid-tgMoIEkvVA {
