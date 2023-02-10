@@ -805,6 +805,11 @@ a {
 .cid-tgGaSr4Xab .navbar.collapsed.opened .dropdown-menu {
   top: 0;
 }
+@media (min-width: 992px) {
+  .cid-tgGaSr4Xab .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 5rem);
+  }
+}
 .cid-tgGaSr4Xab .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
 }
@@ -1085,6 +1090,33 @@ a {
 .cid-tgG9AOcAXZ .mbr-section-title {
   color: #ffffff;
 }
+.cid-tvssvEyDlS {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #000000;
+}
+.cid-tvssvEyDlS .video-wrapper iframe {
+  width: 100%;
+}
+.cid-tvssvEyDlS .mbr-section-title,
+.cid-tvssvEyDlS .mbr-description {
+  text-align: center;
+}
+.cid-tvssvEyDlS .text-wrapper {
+  padding: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-tvssvEyDlS .text-wrapper {
+    padding: 2rem;
+    padding-right: 4rem;
+  }
+}
+.cid-tvssvEyDlS .mbr-section-title {
+  color: #ffffff;
+}
+.cid-tvssvEyDlS .mbr-section-subtitle {
+  color: #ffffff;
+}
 .cid-thvRtT6MVi {
   padding-top: 1rem;
   padding-bottom: 0rem;
@@ -1164,33 +1196,6 @@ a {
   color: #ffffff;
 }
 .cid-tgG9r5Azzq .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-ttNkPOK6WF {
-  padding-top: 1rem;
-  padding-bottom: 0rem;
-  background-color: #000000;
-}
-.cid-ttNkPOK6WF .video-wrapper iframe {
-  width: 100%;
-}
-.cid-ttNkPOK6WF .mbr-section-title,
-.cid-ttNkPOK6WF .mbr-description {
-  text-align: center;
-}
-.cid-ttNkPOK6WF .text-wrapper {
-  padding: 1rem;
-}
-@media (min-width: 992px) {
-  .cid-ttNkPOK6WF .text-wrapper {
-    padding: 2rem;
-    padding-right: 4rem;
-  }
-}
-.cid-ttNkPOK6WF .mbr-section-title {
-  color: #ffffff;
-}
-.cid-ttNkPOK6WF .mbr-section-subtitle {
   color: #ffffff;
 }
 .cid-tgLFqk3fpU {
@@ -1528,6 +1533,11 @@ a {
 }
 .cid-tgGaSr4Xab .navbar.collapsed.opened .dropdown-menu {
   top: 0;
+}
+@media (min-width: 992px) {
+  .cid-tgGaSr4Xab .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 5rem);
+  }
 }
 .cid-tgGaSr4Xab .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
